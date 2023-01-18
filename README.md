@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shubham-Govardhane/Shubham-Govardhane/blob/main/github%20banner.png)
-<h1 align="center">Hi 👋, I'm Shubham Govardhane</h1>
-<h3 align="center">Seeking for opportunity as a Data Scientist | Python | MySQL | Power Bi | Machine Learning</h3>
+<h1 align="left">Hi 👋, I'm Shubham Govardhane</h1>
+<h3 align="left">Seeking for opportunity as a Data Scientist | Python | MySQL | Power Bi | Machine Learning</h3>
 <img align="right" alt="Data Science" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/11/Data-science-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-govardhane&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-govardhane" /> </p>
