@@ -1,3 +1,4 @@
+![logo](https://github.com/Shubham-Govardhane/Shubham-Govardhane/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Govardhane</h1>
 <h3 align="center">Seeking for opportunity as a Data Scientist | Python | MySQL | Power Bi | Machine Learning</h3>
 <img align="right" alt="Data Science" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/11/Data-science-gif.gif">
